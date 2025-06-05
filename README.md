@@ -4,4 +4,4 @@ One command install script for debian based systems after OS installation. Stand
 # Command
 ``curl -fsSL https://raw.githubusercontent.com/alltechdev/dockerserver/refs/heads/main/standard-install.sh | sh``
 
-# withvpn.sh includes tailscale as well
+# Include Tailscale vpn (out of network access)
