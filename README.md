@@ -1,7 +1,7 @@
 # dockerserver
 One command install script for debian based systems after OS installation. Standard install includes Docker, Docker Compose and Dockge, a webui for managing docker compose
 
-Also icludes one command install scripts for popular docker containers.
+Also includes one command install scripts for popular docker containers.
 
 # Command
 `curl -fsSL https://raw.githubusercontent.com/alltechdev/dockerserver/refs/heads/main/standard-install.sh | sh`
