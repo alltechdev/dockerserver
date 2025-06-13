@@ -3,6 +3,8 @@ One command install script for debian based systems after OS installation. Stand
 
 Also includes one command install scripts for popular docker containers.
 
+Ubuntu Server is great for beginners.
+
 # Command
 `curl -fsSL https://raw.githubusercontent.com/alltechdev/dockerserver/refs/heads/main/standard-install.sh | sh`
 
@@ -11,3 +13,5 @@ Also includes one command install scripts for popular docker containers.
 
 # Post Installation
 Input http://localhost:5001 into your browser. From there you can access Dockge webui.
+
+# Sources
