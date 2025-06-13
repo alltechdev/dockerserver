@@ -17,7 +17,7 @@ Input http://localhost:5001 into your browser. From there you can access Dockge 
 
 
 # Sources
-**https://get.docker.com/** - _Docker/Docker Compose_
+**https://get.docker.com/** - _Docker/Docker Compose Install Script_
 
 **https://github.com/louislam/dockge** - _Dockge_
 
