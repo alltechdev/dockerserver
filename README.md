@@ -5,11 +5,11 @@ Ubuntu Server is great for beginners: https://ubuntu.com/download/server
 
 
 # Command
-`curl -fsSL https://raw.githubusercontent.com/alltechdev/dockerserver/refs/heads/main/standard-install.sh | sh`
+`curl https://raw.githubusercontent.com/alltechdev/dockerserver/refs/heads/main/standard-install.sh | sh`
 
 
 # Include Tailscale vpn (out of network access)
-`curl -fsSL https://raw.githubusercontent.com/alltechdev/dockerserver/refs/heads/main/with-tailscale.sh | sh`
+`curl https://raw.githubusercontent.com/alltechdev/dockerserver/refs/heads/main/with-tailscale.sh | sh`
 
 
 # Post Installation
