@@ -1,7 +1,7 @@
 # dockerserver
-One command install script for debian based systems after OS installation. Standard install includes system update, Docker, Docker Compose and Dockge, a webui for managing docker compose
+One command install script for debian based systems after OS installation. Standard install includes system update, Docker, Docker Compose and Dockge, a webui for managing docker compose.
 
-Ubuntu Server is great for beginners.
+Ubuntu Server is great for beginners: https://ubuntu.com/download/server
 
 
 # Command
